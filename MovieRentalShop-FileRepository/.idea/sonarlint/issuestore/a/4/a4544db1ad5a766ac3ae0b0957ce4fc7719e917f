@@ -1,0 +1,6 @@
+
+W
+java:S1141*"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8íÀ›ˆ¶1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”µ¥Ðÿÿÿÿÿ8îÀ›ˆ¶1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¬¶”¥8óÀ›ˆ¶1
